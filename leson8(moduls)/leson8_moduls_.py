@@ -1,7 +1,7 @@
 from math import pow
 from math import pi
 from random import randint
-
+from math import sin
 number=randint(1,100)
 while(1):
     guess=int(input("enter number: "))
